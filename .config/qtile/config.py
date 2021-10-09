@@ -487,7 +487,7 @@ layouts = [
     # layout.MonadTall(**layout_theme),
     # layout.Max(**layout_theme),
     # layout.Tile(shift_windows=True, **layout_theme),
-    layout.Floating(**layout_theme),
+    #layout.Floating(**layout_theme),
     #CustomBspMargins(**layout_theme_margins),
 ]
 
