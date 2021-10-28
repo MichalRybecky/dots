@@ -26,6 +26,5 @@ data.location=~/sync/.task
 #include /usr/share/doc/task/rc/dark-gray-256.theme
 #include /usr/share/doc/task/rc/dark-gray-blue-256.theme
 #include /usr/share/doc/task/rc/solarized-dark-256.theme
-include /usr/share/doc/task/rc/solarized-light-256.theme
-#include /usr/share/doc/task/rc/no-color.theme
-
+#include /usr/share/doc/task/rc/solarized-light-256.theme
+include /usr/share/doc/task/rc/no-color.theme
