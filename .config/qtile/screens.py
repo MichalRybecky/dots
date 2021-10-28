@@ -54,7 +54,7 @@ icon_size = 14
 
 screens = [
     Screen(
-        wallpaper="~/.config/wallpapers/sw.jpg",
+        wallpaper="~/sync/tech/wallpapers/mynord.jpg",
         wallpaper_mode="fill",
         top=bar.Bar(
             [
