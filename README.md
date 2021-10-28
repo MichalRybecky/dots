@@ -1,6 +1,6 @@
 # Nordic
 
-![screenshots](https://user-images.githubusercontent.com/56262573/139335450-4a50d0b0-9764-4434-a018-a264352a04af.jpg)
+![screenshots](https://user-images.githubusercontent.com/56262573/139337477-c091438a-4520-4803-a9ca-f04f8258df87.jpg)
 
 
 ## Info
