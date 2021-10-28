@@ -1,1 +1,0 @@
-sync/tech/dots/.bashrc
